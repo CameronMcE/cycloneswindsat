@@ -24,3 +24,6 @@ Supplementary Figures:
 Figure 1: Created using 'windhist.nc'
 
 Figure 2: Created using 'vv.nc'
+
+Cyclone tracks:
+Cyclone tracks for each month acrsoss the period of analysis are included. Cyclone tracks are stored in the month they experience cyclolysis.
