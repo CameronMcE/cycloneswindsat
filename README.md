@@ -9,7 +9,7 @@ Figure 2: Subplots (a-c) was created using the .nc file 'uv10'. It contains arra
 
 Figure 3: Subplots (a-c) was created using the .nc file 'tcwv_amsr'. The other subplots were similarly created using the 'clw' and 'mtpr' .nc files.
 
-Figure 4: Subplots (a) was created using the .nc file 'uv10_scatter'. The other subplots were similarly created using the 'tcwv_scatter' and 'clw_scatter' and 'mtpr_scatter' .nc files.
+Figure 4: Subplots (a) was created using the .npy file 'era_uv10' and 'ws_uv10. The other subplots were similarly created using the 'tcwv' and 'clw' and 'mtpr' .npy files.
 
 Figure 5 was created using the .nc file 'tcwv_regions'.
 
